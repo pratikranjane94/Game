@@ -15,6 +15,7 @@
 			Download Link:<input type=text name="downloadLink" size="100" value="${link}">  <br/>
 			Click to Download  <br/>
 			<a href="${link}"><input type="submit" value="download" ></a>
+			<h1>${msg}</h1>
 	</center>
 </body>
 </html>
